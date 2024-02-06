@@ -4775,3 +4775,9 @@ Script Stack (0 frames) :
 [2024.02.06-20.48.51:758][275]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
 [2024.02.06-20.58.52:167][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
 [2024.02.06-20.58.52:170][ 76]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2024.02.06-21.08.52:555][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.02.06-21.08.52:559][978]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.027
+[2024.02.06-21.09.40:091][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.02.06-21.09.40:097][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.06-21.09.40:146][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.02.06-21.09.40:159][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 7.33 sec)
