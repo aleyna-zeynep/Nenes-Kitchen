@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/yagur/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/yagur/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/Characters/Mannequins/Animations/Quinn/MF_Handle.uasset",
+				"C:/Users/yagur/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
 				"C:/Users/ferre/OneDrive/Documents/Unreal Projects/nenesKitchen/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
