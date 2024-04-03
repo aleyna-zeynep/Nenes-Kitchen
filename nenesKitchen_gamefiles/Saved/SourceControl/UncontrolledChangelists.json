@@ -6,6 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/Cube.uasset",
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/ferre/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/Laras_Files/IntroCutscene/introCutscene.umap",
 				"C:/Users/britn/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/Characters/lambert1.uasset",
 				"C:/Users/britn/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/Characters/NenesKitchen_Rough.uasset",
 				"C:/Users/britn/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
@@ -58,7 +60,6 @@
 				"C:/Users/britn/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/Models/Kitchen/Stove/StoveNenesGame.uasset",
 				"C:/Users/britn/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/Models/Kitchen/Stove/lambert1.uasset",
 				"C:/Users/britn/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/Models/Kitchen/Counters/lambert1.uasset",
-				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
 				"C:/Users/britn/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/7E/BEYC27T14FHBU6LF2F60RR.uasset",
 				"C:/Users/britn/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/OR/4T6S7386QIIWBNNEWWUH4U.uasset",
 				"C:/Users/britn/OneDrive/Documents/GitHub/Nenes-Kitchen/nenesKitchen_gamefiles/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/5D/I9VSIW873VUCVPMLID3TW1.uasset",
